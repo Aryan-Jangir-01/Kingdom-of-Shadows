@@ -1,0 +1,35 @@
+{
+  "name": "Kingdom of Shadows: Break the Curse",
+  "short_name": "KingdomOfShadows",
+  "description": "Epic 2D Dark Fantasy Action Platformer with customizable controls, active powers, and RPG shrine.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#07040d",
+  "theme_color": "#9333ea",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "games",
+    "action"
+  ]
+}
